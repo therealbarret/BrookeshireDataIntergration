@@ -1,0 +1,14 @@
+{
+  "name": "bdi",
+  "version": "1.0.0",
+  "description": "Property management system for residential development",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Barret Margin Jr",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
