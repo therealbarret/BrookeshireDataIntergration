@@ -1,5 +1,5 @@
 <template>
-  <h1>Admin Page</h1>
+  <h1>Site Page</h1>
 </template>
 
 <script>
